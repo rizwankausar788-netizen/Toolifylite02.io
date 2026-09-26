@@ -1,0 +1,7 @@
+{
+  "name": "Toolify - AI Tools & Websites Directory",
+  "description": "Discover 28,000+ best AI websites and tools, updated daily with verified traffic rankings, categories, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
